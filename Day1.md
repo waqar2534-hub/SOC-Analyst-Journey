@@ -12,7 +12,12 @@ I also completed TryHackMe: Linux Fundamentals Part 1, where I applied my basic 
 
 In addition, I set up my tools for learning cybersecurity. I installed VirtualBox and configured Kali Linux. I also installed Wireshark for network traffic analysis, VS Code for coding, and Obsidian for note-taking. I created a GitHub repository to track my learning progress.
 
-I used Wireshark to capture network traffic and observed basic packets such as DNS and HTTPS. This gave me a basic understanding of how data travels across networks.
+I used Wireshark to capture network traffic and observed basic packets such as DNS and HTTPS. This gave me a basic understanding of how data travels across networks. I used Wireshark to capture network traffic and observed basic packets such as DNS and HTTPS. This gave me a basic understanding of how data travels across networks.
+
+### Wireshark Lab Screenshots
+![Wireshark Capture 1](Screenshot%20(14).png)
+![Wireshark Capture 2](Screenshot%20(15).png)
+![Wireshark Capture 3](Screenshot%20(16).png)
 
 ---
 
